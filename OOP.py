@@ -30,7 +30,7 @@ class Heroine(SuperHero):
         print(f"weakness : {self.weakness}")
         print(f"rogues : {self.rogue}")
 
-my_heroine = Heroine("Power Girl", "Strength and invulnerability", "metropolis", "Kryptonite", "Reverse Flash")
+my_heroine = Heroine("Power Girl", "Strength and invulnerability", "metropolis", "Kryptonite", "General Zod")
 
 my_heroine.heroine_info()
 
